@@ -1,21 +1,21 @@
 const books = [
 
     {
-        name : "Rouge",
+        name : "rouge",
         price : "$28.99",
         author : "Mona Awad",
         id : "1"
     }
     ,
     {
-        name : "James",
+        name : "james",
         price : "$25.99",
         author : "Mona Awad",
         id : "2"
     }
     ,
     {
-        name : "Clear",
+        name : "clear",
         price : "$29.99",
         author : "Mona Awad",
         id : "3"

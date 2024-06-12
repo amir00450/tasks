@@ -6,7 +6,7 @@ const Book = () =>{
     const book= getBook(params.BookId)
     if(book){
         return(
-            <div className="book">
+            <div className="book" style={{padding: "2rem"}}>
                 <p> name : {book.name}</p>
                 <p> price :{book.price}</p>
                 <p> author :{book.author}</p>
